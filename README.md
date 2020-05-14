@@ -1,2 +1,1 @@
-# TCP_Risk
-This is a tutorial project as I am new to learning TCP communication with python3. 
+This is a python tutorial to help learn how TCP works. This will be a creaating of the game Risk.
